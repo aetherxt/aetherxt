@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aetherxt&label=Profile%20views&color=0e75b6&style=flat" alt="aetherxt" /> </p>
 
-- 🔭 I’m currently working on [mysql-table](https://github.com/aetherxt/mysql-table)
+- 🔭 I’m currently working on [angus-shop](https://github.com/aetherxt/angus-shop)
 
-- 🌱 I’m currently learning **Flask, MySQL, Bootstrap, ReactJS**
+- 🌱 I’m currently learning **Flask, MySQL, Bootstrap, TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [github.com/aetherxt](github.com/aetherxt)
-
-- 📫 How to reach me **adatanium@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
