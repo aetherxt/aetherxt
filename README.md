@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [angus-shop](https://github.com/aetherxt/angus-shop)
 
-- 🌱 I’m currently learning **Flask, MySQL, Bootstrap, TailwindCSS**
+- 🌱 I’m currently learning **React, Mongodb, Google Maps API, TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [github.com/aetherxt](github.com/aetherxt)
 
