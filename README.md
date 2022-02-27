@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aetherxt&label=Profile%20views&color=0e75b6&style=flat" alt="aetherxt" /> </p>
 
-- 🔭 I’m currently working on [angus-shop](https://github.com/aetherxt/angus-shop)
-
-- 🌱 I’m currently learning **React, Mongodb, Google Maps API, TailwindCSS**
+- 🌱 I’m currently learning **TA-Lib, Mongodb, TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [github.com/aetherxt](github.com/aetherxt)
 
