@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aetherxt&label=Profile%20views&color=0e75b6&style=flat" alt="aetherxt" /> </p>
 
-- 🌱 I’m currently learning **TA-Lib, Mongodb, TailwindCSS**
-
 - 👨‍💻 All of my projects are available at [github.com/aetherxt](github.com/aetherxt)
 
 
@@ -11,6 +9,8 @@
 
 My Stats 📈
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aetherxt)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=monokai)
 
+![Github Snake](github-snake-dark.svg#gh-dark-mode-only)
 Last Updated: 11/14/2021
