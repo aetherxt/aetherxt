@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm aetherxt</h1>
+![image](https://user-images.githubusercontent.com/77727224/168958965-aef6de21-411e-4125-99cd-2e0fda80ee47.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aetherxt&label=Profile%20views&color=0e75b6&style=flat" alt="aetherxt" /> </p>
 
