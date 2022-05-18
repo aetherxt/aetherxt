@@ -9,8 +9,6 @@
 
 My Stats 📈
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=monokai)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aetherxt&show_icons=true&theme=tokyonight)
 
-![Github Snake](github-snake-dark.svg#gh-dark-mode-only)
 Last Updated: 11/14/2021
