@@ -1,2 +1,3 @@
-ISF 25' \n
-HKU CS 29'
+ISF 25'
+
+HKU BEng(CompSci) 29'
